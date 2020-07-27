@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>7 | Home</title>
-    <link>yurimuniz7.github.io/publication-type/7/</link>
-      <atom:link href="yurimuniz7.github.io/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication-type/7/</link>
+      <atom:link href="/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
     <description>7</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Aug 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/yurimuniz7.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>7</title>
-      <link>yurimuniz7.github.io/publication-type/7/</link>
+      <link>/publication-type/7/</link>
     </image>
     
     <item>
       <title>Efeito Purcell na emissão espontânea de um e dois fótons (Master thesis)</title>
-      <link>yurimuniz7.github.io/publication/masterthesis2018/</link>
+      <link>/publication/masterthesis2018/</link>
       <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>yurimuniz7.github.io/publication/masterthesis2018/</guid>
+      <guid>/publication/masterthesis2018/</guid>
       <description></description>
     </item>
     

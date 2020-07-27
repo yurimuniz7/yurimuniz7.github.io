@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>kaggle | Home</title>
-    <link>yurimuniz7.github.io/tag/kaggle/</link>
-      <atom:link href="yurimuniz7.github.io/tag/kaggle/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/kaggle/</link>
+      <atom:link href="/tag/kaggle/index.xml" rel="self" type="application/rss+xml" />
     <description>kaggle</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/yurimuniz7.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>kaggle</title>
-      <link>yurimuniz7.github.io/tag/kaggle/</link>
+      <link>/tag/kaggle/</link>
     </image>
     
     <item>
       <title>Predicting frauds from customer transactions</title>
-      <link>yurimuniz7.github.io/project/kaggle_vesta_frauds/</link>
+      <link>/project/kaggle_vesta_frauds/</link>
       <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>yurimuniz7.github.io/project/kaggle_vesta_frauds/</guid>
+      <guid>/project/kaggle_vesta_frauds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicting house prices</title>
-      <link>yurimuniz7.github.io/project/kaggle_house_prices/</link>
+      <link>/project/kaggle_house_prices/</link>
       <pubDate>Sat, 11 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>yurimuniz7.github.io/project/kaggle_house_prices/</guid>
+      <guid>/project/kaggle_house_prices/</guid>
       <description></description>
     </item>
     

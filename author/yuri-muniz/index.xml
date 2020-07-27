@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yuri Muniz | Home</title>
-    <link>yurimuniz7.github.io/author/yuri-muniz/</link>
-      <atom:link href="yurimuniz7.github.io/author/yuri-muniz/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/yuri-muniz/</link>
+      <atom:link href="/author/yuri-muniz/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuri Muniz</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/yurimuniz7.github.io/author/yuri-muniz/avatar_hu1b94ccf2afdeadcf86831040e1b014e6_209974_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>/author/yuri-muniz/avatar_hu1b94ccf2afdeadcf86831040e1b014e6_209974_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Yuri Muniz</title>
-      <link>yurimuniz7.github.io/author/yuri-muniz/</link>
+      <link>/author/yuri-muniz/</link>
     </image>
     
     <item>
       <title>Two-Photon Spontaneous Emission in Atomically Thin Plasmonic Nanostructures</title>
-      <link>yurimuniz7.github.io/publication/prl2020/</link>
+      <link>/publication/prl2020/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>yurimuniz7.github.io/publication/prl2020/</guid>
+      <guid>/publication/prl2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tailoring two-photon spontaneous emission using atomically thin plasmonic nanostructures</title>
-      <link>yurimuniz7.github.io/talk/zaragoza2020/</link>
+      <link>/talk/zaragoza2020/</link>
       <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>yurimuniz7.github.io/talk/zaragoza2020/</guid>
+      <guid>/talk/zaragoza2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quantum two-photon emission in a photonic cavity</title>
-      <link>yurimuniz7.github.io/publication/pra2019/</link>
+      <link>/publication/pra2019/</link>
       <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>yurimuniz7.github.io/publication/pra2019/</guid>
+      <guid>/publication/pra2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Two-photon spontaneous emission in a photonic cavity</title>
-      <link>yurimuniz7.github.io/talk/russia2019/</link>
+      <link>/talk/russia2019/</link>
       <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>yurimuniz7.github.io/talk/russia2019/</guid>
+      <guid>/talk/russia2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Electrostatic and magnetostatic ﬁelds of point dipoles revisited</title>
-      <link>yurimuniz7.github.io/publication/revmexe2019/</link>
+      <link>/publication/revmexe2019/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>yurimuniz7.github.io/publication/revmexe2019/</guid>
+      <guid>/publication/revmexe2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>yurimuniz7.github.io/post/jupyter/</link>
+      <link>/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>yurimuniz7.github.io/post/jupyter/</guid>
+      <guid>/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
@@ -103,17 +103,17 @@ date: 2019-09-01
     
     <item>
       <title>Efeito Purcell na emissão espontânea de um e dois fótons (Master thesis)</title>
-      <link>yurimuniz7.github.io/publication/masterthesis2018/</link>
+      <link>/publication/masterthesis2018/</link>
       <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>yurimuniz7.github.io/publication/masterthesis2018/</guid>
+      <guid>/publication/masterthesis2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>yurimuniz7.github.io/post/getting-started/</link>
+      <link>/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>yurimuniz7.github.io/post/getting-started/</guid>
+      <guid>/post/getting-started/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or 
