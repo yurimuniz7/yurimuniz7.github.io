@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Home</title>
+    <link>yurimuniz7.github.io/publication-type/2/</link>
+      <atom:link href="yurimuniz7.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/yurimuniz7.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>yurimuniz7.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Two-Photon Spontaneous Emission in Atomically Thin Plasmonic Nanostructures</title>
+      <link>yurimuniz7.github.io/publication/prl2020/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>yurimuniz7.github.io/publication/prl2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum two-photon emission in a photonic cavity</title>
+      <link>yurimuniz7.github.io/publication/pra2019/</link>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>yurimuniz7.github.io/publication/pra2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electrostatic and magnetostatic ﬁelds of point dipoles revisited</title>
+      <link>yurimuniz7.github.io/publication/revmexe2019/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>yurimuniz7.github.io/publication/revmexe2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
