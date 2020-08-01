@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Y. Muniz</title>
+    <link>/en/</link>
+      <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    <description>Y. Muniz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Y. Muniz</title>
+      <link>/en/</link>
+    </image>
+    
+    <item>
+      <title>Predicting frauds from customer transactions</title>
+      <link>/en/project/kaggle_vesta_frauds/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/en/project/kaggle_vesta_frauds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-Photon Spontaneous Emission in Atomically Thin Plasmonic Nanostructures</title>
+      <link>/en/publication/prl2020/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/en/publication/prl2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting house prices</title>
+      <link>/en/project/kaggle_house_prices/</link>
+      <pubDate>Sat, 11 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/en/project/kaggle_house_prices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DataCamp projects</title>
+      <link>/en/project/datacamp/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/en/project/datacamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning algorithms from scratch</title>
+      <link>/en/project/coursera/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/en/project/coursera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tailoring two-photon spontaneous emission using atomically thin plasmonic nanostructures</title>
+      <link>/en/talk/zaragoza2020/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/en/talk/zaragoza2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum two-photon emission in a photonic cavity</title>
+      <link>/en/publication/pra2019/</link>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/pra2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-photon spontaneous emission in a photonic cavity</title>
+      <link>/en/talk/russia2019/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/en/talk/russia2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electrostatic and magnetostatic ﬁelds of point dipoles revisited</title>
+      <link>/en/publication/revmexe2019/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/revmexe2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efeito Purcell na emissão espontânea de um e dois fótons (Master thesis)</title>
+      <link>/en/publication/masterthesis2018/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/en/publication/masterthesis2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

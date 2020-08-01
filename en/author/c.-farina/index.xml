@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. Farina | Y. Muniz</title>
+    <link>/en/author/c.-farina/</link>
+      <atom:link href="/en/author/c.-farina/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. Farina</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>C. Farina</title>
+      <link>/en/author/c.-farina/</link>
+    </image>
+    
+    <item>
+      <title>Two-Photon Spontaneous Emission in Atomically Thin Plasmonic Nanostructures</title>
+      <link>/en/publication/prl2020/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/en/publication/prl2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum two-photon emission in a photonic cavity</title>
+      <link>/en/publication/pra2019/</link>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/pra2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electrostatic and magnetostatic ﬁelds of point dipoles revisited</title>
+      <link>/en/publication/revmexe2019/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/revmexe2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuri Muniz | Y. Muniz</title>
+    <link>/en/author/yuri-muniz/</link>
+      <atom:link href="/en/author/yuri-muniz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuri Muniz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/en/author/yuri-muniz/avatar_hu1b94ccf2afdeadcf86831040e1b014e6_209974_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Yuri Muniz</title>
+      <link>/en/author/yuri-muniz/</link>
+    </image>
+    
+    <item>
+      <title>Two-Photon Spontaneous Emission in Atomically Thin Plasmonic Nanostructures</title>
+      <link>/en/publication/prl2020/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/en/publication/prl2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tailoring two-photon spontaneous emission using atomically thin plasmonic nanostructures</title>
+      <link>/en/talk/zaragoza2020/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/en/talk/zaragoza2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum two-photon emission in a photonic cavity</title>
+      <link>/en/publication/pra2019/</link>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/pra2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-photon spontaneous emission in a photonic cavity</title>
+      <link>/en/talk/russia2019/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/en/talk/russia2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electrostatic and magnetostatic ﬁelds of point dipoles revisited</title>
+      <link>/en/publication/revmexe2019/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/revmexe2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efeito Purcell na emissão espontânea de um e dois fótons (Master thesis)</title>
+      <link>/en/publication/masterthesis2018/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/en/publication/masterthesis2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

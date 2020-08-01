@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Home</title>
+    <title>Recent &amp; Upcoming Talks | Y. Muniz</title>
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt-br</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
@@ -13,18 +13,50 @@
     </image>
     
     <item>
-      <title>Tailoring two-photon spontaneous emission using atomically thin plasmonic nanostructures</title>
-      <link>/talk/zaragoza2020/</link>
-      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/talk/zaragoza2020/</guid>
+      <title>Emissão espontânea de dois fótons próximo a nanoestruturas plasmônicas bidimensionais</title>
+      <link>/talk/edq2019-eedfnanoestruturasplasmonicas/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/edq2019-eedfnanoestruturasplasmonicas/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Two-photon spontaneous emission in a photonic cavity</title>
-      <link>/talk/russia2019/</link>
-      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/talk/russia2019/</guid>
+      <title>Plasmônica em nanoestruturas bidimensionais</title>
+      <link>/talk/edq2019-nanoestruturasplasmonicas/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/edq2019-nanoestruturasplasmonicas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efeito Purcell na emissão espontânea de dois fótons</title>
+      <link>/talk/ufv2018/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/ufv2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defesa de dissertação de mestrado</title>
+      <link>/talk/defesamestrado2018/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/defesamestrado2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alguns efeitos do vácuo quântico</title>
+      <link>/talk/coloquinho2018/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/coloquinho2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introdução ao efeito Purcell</title>
+      <link>/talk/jic2016/</link>
+      <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/talk/jic2016/</guid>
       <description></description>
     </item>
     
