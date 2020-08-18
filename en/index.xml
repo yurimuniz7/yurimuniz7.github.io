@@ -5,12 +5,20 @@
     <link>/en/</link>
       <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
     <description>Y. Muniz</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Y. Muniz</title>
       <link>/en/</link>
     </image>
+    
+    <item>
+      <title>Visualizing scientific publications</title>
+      <link>/en/project/visualizing_scientific_publications/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/en/project/visualizing_scientific_publications/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Natural language processing with disaster tweets</title>
