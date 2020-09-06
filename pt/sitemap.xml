@@ -3,13 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/project/fifa20__analysis_predictions/</loc>
+    <lastmod>2020-09-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/project/fifa20__analysis_predictions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/project/fifa20__analysis_predictions/"
+                />
+  </url>
+  
+  <url>
     <loc>/tag/pessoais/</loc>
-    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/project/</loc>
-    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -24,7 +39,7 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -34,6 +49,21 @@
                 rel="alternate"
                 hreflang="pt"
                 href="/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-09-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/"
                 />
   </url>
   
@@ -49,21 +79,6 @@
                 rel="alternate"
                 hreflang="pt"
                 href="/project/visualizing_scientific_publications/"
-                />
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/"
                 />
   </url>
   

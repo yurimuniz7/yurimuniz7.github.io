@@ -5,12 +5,20 @@
     <link>/en/project/</link>
       <atom:link href="/en/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 06 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>/en/project/</link>
     </image>
+    
+    <item>
+      <title>FIFA 20 - Football players data analysis</title>
+      <link>/en/project/fifa20__analysis_predictions/</link>
+      <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/en/project/fifa20__analysis_predictions/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Visualizing scientific publications</title>
