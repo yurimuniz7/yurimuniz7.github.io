@@ -5,7 +5,7 @@
     <link>/en/</link>
       <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
     <description>Y. Muniz</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Y. Muniz</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Happiness across the world</title>
-      <link>/en/project/world_happiness_analysis/</link>
-      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/en/project/world_happiness_analysis/</guid>
+      <title>FIFA 20 - Football players wages and positions</title>
+      <link>/en/project/fifa20__analysis_predictions/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/en/project/fifa20__analysis_predictions/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>FIFA 20 - Football players data analysis</title>
-      <link>/en/project/fifa20__analysis_predictions/</link>
-      <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/en/project/fifa20__analysis_predictions/</guid>
+      <title>Happiness across the world</title>
+      <link>/en/project/world_happiness_analysis/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/en/project/world_happiness_analysis/</guid>
       <description></description>
     </item>
     
