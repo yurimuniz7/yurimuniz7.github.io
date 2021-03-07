@@ -1,8 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>/project/optimization/</loc>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/project/optimization/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/project/optimization/"
+                />
+  </url><url>
+    <loc>/tag/pessoais/</loc>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/project/"
+                />
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/tags/"
+                />
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/"
+                />
+  </url><url>
     <loc>/project/fifa20__analysis_predictions/</loc>
     <lastmod>2020-10-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -15,59 +69,7 @@
                 hreflang="pt"
                 href="/project/fifa20__analysis_predictions/"
                 />
-  </url>
-  
-  <url>
-    <loc>/tag/pessoais/</loc>
-    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/project/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/"
-                />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/world_happiness_analysis/</loc>
     <lastmod>2020-09-23T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -80,9 +82,7 @@
                 hreflang="pt"
                 href="/project/world_happiness_analysis/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/tableau/</loc>
     <lastmod>2020-09-23T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -95,24 +95,7 @@
                 hreflang="pt"
                 href="/tag/tableau/"
                 />
-  </url>
-  
-  <url>
-    <loc>/project/visualizing_scientific_publications/</loc>
-    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/project/visualizing_scientific_publications/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/project/visualizing_scientific_publications/"
-                />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/</loc>
     <lastmod>2020-08-08T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -125,14 +108,10 @@
                 hreflang="pt"
                 href="/authors/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/liveastroaline/</loc>
     <lastmod>2020-08-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/</loc>
     <lastmod>2020-08-08T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -145,9 +124,7 @@
                 hreflang="pt"
                 href="/talk/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/yuri-muniz/</loc>
     <lastmod>2020-08-08T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -160,9 +137,7 @@
                 hreflang="pt"
                 href="/author/yuri-muniz/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/kaggle/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -175,9 +150,7 @@
                 hreflang="pt"
                 href="/tag/kaggle/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/kaggle_disaster_tweets/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -190,9 +163,7 @@
                 hreflang="pt"
                 href="/project/kaggle_disaster_tweets/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/kaggle_vesta_frauds/</loc>
     <lastmod>2020-07-21T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -205,9 +176,7 @@
                 hreflang="pt"
                 href="/project/kaggle_vesta_frauds/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication-type/2/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -220,9 +189,7 @@
                 hreflang="pt"
                 href="/publication-type/2/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/a.-manjavacas/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -235,9 +202,7 @@
                 hreflang="pt"
                 href="/author/a.-manjavacas/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/c.-farina/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -250,9 +215,7 @@
                 hreflang="pt"
                 href="/author/c.-farina/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/d.-a.-r.-dalvit/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -265,9 +228,7 @@
                 hreflang="pt"
                 href="/author/d.-a.-r.-dalvit/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/graphene/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -280,9 +241,7 @@
                 hreflang="pt"
                 href="/tag/graphene/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/nanostructures/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -295,9 +254,7 @@
                 hreflang="pt"
                 href="/tag/nanostructures/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/plasmonics/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -310,9 +267,7 @@
                 hreflang="pt"
                 href="/tag/plasmonics/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication_types/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -325,9 +280,7 @@
                 hreflang="pt"
                 href="/publication_types/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -340,9 +293,7 @@
                 hreflang="pt"
                 href="/publication/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/quantum-optics/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -355,9 +306,7 @@
                 hreflang="pt"
                 href="/tag/quantum-optics/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/spontaneous-emission/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -370,9 +319,7 @@
                 hreflang="pt"
                 href="/tag/spontaneous-emission/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/two-dimensional-materials/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -385,9 +332,7 @@
                 hreflang="pt"
                 href="/tag/two-dimensional-materials/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/prl2020/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -400,9 +345,7 @@
                 hreflang="pt"
                 href="/publication/prl2020/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/w.-j.-m.-kort-kamp/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -415,9 +358,7 @@
                 hreflang="pt"
                 href="/author/w.-j.-m.-kort-kamp/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/kaggle_house_prices/</loc>
     <lastmod>2020-07-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -430,64 +371,13 @@
                 hreflang="pt"
                 href="/project/kaggle_house_prices/"
                 />
-  </url>
-  
-  <url>
-    <loc>/tag/mooc/</loc>
-    <lastmod>2020-06-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tag/mooc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/tag/mooc/"
-                />
-  </url>
-  
-  <url>
-    <loc>/project/datacamp/</loc>
-    <lastmod>2020-06-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/project/datacamp/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/project/datacamp/"
-                />
-  </url>
-  
-  <url>
-    <loc>/project/coursera/</loc>
-    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/project/coursera/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/project/coursera/"
-                />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/edq2019-eedfnanoestruturasplasmonicas/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/edq2019-nanoestruturasplasmonicas/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/atoms-ions-and-molecules/</loc>
     <lastmod>2019-08-12T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -500,9 +390,7 @@
                 hreflang="pt"
                 href="/tag/atoms-ions-and-molecules/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/cavity-quantum-electrodynamics/</loc>
     <lastmod>2019-08-12T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -515,9 +403,7 @@
                 hreflang="pt"
                 href="/tag/cavity-quantum-electrodynamics/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/d.-szilard/</loc>
     <lastmod>2019-08-12T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -530,9 +416,7 @@
                 hreflang="pt"
                 href="/author/d.-szilard/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/dipole-approximation/</loc>
     <lastmod>2019-08-12T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -545,9 +429,7 @@
                 hreflang="pt"
                 href="/tag/dipole-approximation/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/electronic-transitions/</loc>
     <lastmod>2019-08-12T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -560,9 +442,7 @@
                 hreflang="pt"
                 href="/tag/electronic-transitions/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/f.-s.-s.-da-rosa/</loc>
     <lastmod>2019-08-12T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -575,9 +455,7 @@
                 hreflang="pt"
                 href="/author/f.-s.-s.-da-rosa/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/lifetimes-and-widths/</loc>
     <lastmod>2019-08-12T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -590,9 +468,7 @@
                 hreflang="pt"
                 href="/tag/lifetimes-and-widths/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/pra2019/</loc>
     <lastmod>2019-08-12T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -605,9 +481,7 @@
                 hreflang="pt"
                 href="/publication/pra2019/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/anderson-jose-fonseca/</loc>
     <lastmod>2019-06-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -620,9 +494,7 @@
                 hreflang="pt"
                 href="/author/anderson-jose-fonseca/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/dirac-delta/</loc>
     <lastmod>2019-06-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -635,9 +507,7 @@
                 hreflang="pt"
                 href="/tag/dirac-delta/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/revmexe2019/</loc>
     <lastmod>2019-06-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -650,9 +520,7 @@
                 hreflang="pt"
                 href="/publication/revmexe2019/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/point-dipole-fields/</loc>
     <lastmod>2019-06-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -665,9 +533,7 @@
                 hreflang="pt"
                 href="/tag/point-dipole-fields/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/regularization/</loc>
     <lastmod>2019-06-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -680,14 +546,10 @@
                 hreflang="pt"
                 href="/tag/regularization/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/ufv2018/</loc>
     <lastmod>2018-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication-type/7/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -700,9 +562,7 @@
                 hreflang="pt"
                 href="/publication-type/7/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/efeito-purcell/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -715,9 +575,7 @@
                 hreflang="pt"
                 href="/tag/efeito-purcell/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/masterthesis2018/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -730,9 +588,7 @@
                 hreflang="pt"
                 href="/publication/masterthesis2018/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/eletrodinamica-quantica/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -745,9 +601,7 @@
                 hreflang="pt"
                 href="/tag/eletrodinamica-quantica/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/emissao-de-dois-fotons/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -760,9 +614,7 @@
                 hreflang="pt"
                 href="/tag/emissao-de-dois-fotons/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/emissao-espontanea/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -775,24 +627,16 @@
                 hreflang="pt"
                 href="/tag/emissao-espontanea/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/defesamestrado2018/</loc>
     <lastmod>2018-08-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/coloquinho2018/</loc>
     <lastmod>2018-04-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/jic2016/</loc>
     <lastmod>2016-10-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -805,5 +649,4 @@
                 href="/categories/"
                 />
   </url>
-  
 </urlset>

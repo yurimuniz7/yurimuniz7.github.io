@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Y. Muniz</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt-br</language><lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt-br</language><lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Y. Muniz</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Otimização matemática com Pyomo</title>
+      <link>/project/optimization/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/project/optimization/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>FIFA 20 - Salários e posições de jogadores de futebol</title>
@@ -25,14 +33,6 @@
       <link>/project/world_happiness_analysis/</link>
       <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/project/world_happiness_analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visualizando publicações científicas</title>
-      <link>/project/visualizing_scientific_publications/</link>
-      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/project/visualizing_scientific_publications/</guid>
       <description></description>
     </item>
     
@@ -73,22 +73,6 @@
       <link>/project/kaggle_house_prices/</link>
       <pubDate>Sat, 11 Jul 2020 00:00:00 +0000</pubDate>
       <guid>/project/kaggle_house_prices/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projetos do DataCamp</title>
-      <link>/project/datacamp/</link>
-      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/project/datacamp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Algoritmos de aprendizado de máquinas do zero</title>
-      <link>/project/coursera/</link>
-      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/project/coursera/</guid>
       <description></description>
     </item>
     

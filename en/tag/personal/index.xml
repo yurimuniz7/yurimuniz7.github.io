@@ -5,7 +5,7 @@
     <link>/en/tag/personal/</link>
       <atom:link href="/en/tag/personal/index.xml" rel="self" type="application/rss+xml" />
     <description>personal</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>personal</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>FIFA 20 - Football players wages and positions</title>
-      <link>/en/project/fifa20__analysis_predictions/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/en/project/fifa20__analysis_predictions/</guid>
+      <title>Mathematical optimization with Pyomo</title>
+      <link>/en/project/optimization/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/en/project/optimization/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Visualizing scientific publications</title>
-      <link>/en/project/visualizing_scientific_publications/</link>
-      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/en/project/visualizing_scientific_publications/</guid>
+      <title>FIFA 20 - Football players wages and positions</title>
+      <link>/en/project/fifa20__analysis_predictions/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/en/project/fifa20__analysis_predictions/</guid>
       <description></description>
     </item>
     
