@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>FIFA 20 - Salários e posições de jogadores de futebol</title>
+      <title>Mini projeto com dados do FIFA 20</title>
       <link>/project/fifa20__analysis_predictions/</link>
       <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
       <guid>/project/fifa20__analysis_predictions/</guid>
@@ -29,15 +29,7 @@
     </item>
     
     <item>
-      <title>Felicidade ao redor do mundo</title>
-      <link>/project/world_happiness_analysis/</link>
-      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/project/world_happiness_analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Processamento de linguagem natural com tweets sobre desastres</title>
+      <title>NLP com tweets sobre desastres</title>
       <link>/project/kaggle_disaster_tweets/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       <guid>/project/kaggle_disaster_tweets/</guid>
@@ -45,15 +37,7 @@
     </item>
     
     <item>
-      <title>Predizendo fraudes em transações bancárias</title>
-      <link>/project/kaggle_vesta_frauds/</link>
-      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/project/kaggle_vesta_frauds/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Predizendo preços de casas</title>
+      <title>Regressão de preços de casas</title>
       <link>/project/kaggle_house_prices/</link>
       <pubDate>Sat, 11 Jul 2020 00:00:00 +0000</pubDate>
       <guid>/project/kaggle_house_prices/</guid>

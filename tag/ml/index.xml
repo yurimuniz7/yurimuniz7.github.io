@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ml | Y. Muniz</title>
+    <link>/tag/ml/</link>
+      <atom:link href="/tag/ml/index.xml" rel="self" type="application/rss+xml" />
+    <description>ml</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt-br</language><lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>ml</title>
+      <link>/tag/ml/</link>
+    </image>
+    
+    <item>
+      <title>Mini projeto com dados do FIFA 20</title>
+      <link>/project/fifa20__analysis_predictions/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/project/fifa20__analysis_predictions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP com tweets sobre desastres</title>
+      <link>/project/kaggle_disaster_tweets/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/project/kaggle_disaster_tweets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regressão de preços de casas</title>
+      <link>/project/kaggle_house_prices/</link>
+      <pubDate>Sat, 11 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/project/kaggle_house_prices/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Weitzel | Y. Muniz</title>
+    <link>/en/author/l.-weitzel/</link>
+      <atom:link href="/en/author/l.-weitzel/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. Weitzel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>L. Weitzel</title>
+      <link>/en/author/l.-weitzel/</link>
+    </image>
+    
+    <item>
+      <title>Two-photon spontaneous emission of an atom in a cosmic string background</title>
+      <link>/en/publication/prd2022/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>/en/publication/prd2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

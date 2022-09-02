@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>FIFA 20 - Football players wages and positions</title>
+      <title>FIFA 20 - mini data science project</title>
       <link>/en/project/fifa20__analysis_predictions/</link>
       <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
       <guid>/en/project/fifa20__analysis_predictions/</guid>
@@ -29,15 +29,7 @@
     </item>
     
     <item>
-      <title>Happiness across the world</title>
-      <link>/en/project/world_happiness_analysis/</link>
-      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/en/project/world_happiness_analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Natural language processing with disaster tweets</title>
+      <title>NLP with disaster tweets</title>
       <link>/en/project/kaggle_disaster_tweets/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       <guid>/en/project/kaggle_disaster_tweets/</guid>
@@ -45,15 +37,7 @@
     </item>
     
     <item>
-      <title>Predicting frauds from customer transactions</title>
-      <link>/en/project/kaggle_vesta_frauds/</link>
-      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/en/project/kaggle_vesta_frauds/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Predicting house prices</title>
+      <title>House prices regression</title>
       <link>/en/project/kaggle_house_prices/</link>
       <pubDate>Sat, 11 Jul 2020 00:00:00 +0000</pubDate>
       <guid>/en/project/kaggle_house_prices/</guid>

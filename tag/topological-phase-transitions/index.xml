@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topological phase transitions | Y. Muniz</title>
+    <link>/tag/topological-phase-transitions/</link>
+      <atom:link href="/tag/topological-phase-transitions/index.xml" rel="self" type="application/rss+xml" />
+    <description>Topological phase transitions</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt-br</language><lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Topological phase transitions</title>
+      <link>/tag/topological-phase-transitions/</link>
+    </image>
+    
+    <item>
+      <title>Casimir forces in the flatland: Interplay between photoinduced phase transitions and quantum Hall physics</title>
+      <link>/publication/prr2021/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/prr2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
