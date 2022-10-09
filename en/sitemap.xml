@@ -2,6 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/en/authors/</loc>
+    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/"
+                />
+  </url><url>
+    <loc>/en/talk/defesadoutorado2022/</loc>
+    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/talk/defesadoutorado2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/talk/defesadoutorado2022/"
+                />
+  </url><url>
+    <loc>/en/talk/</loc>
+    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/talk/"
+                />
+  </url><url>
+    <loc>/en/</loc>
+    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+  </url><url>
+    <loc>/en/author/yuri-muniz/</loc>
+    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/author/yuri-muniz/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/yuri-muniz/"
+                />
+  </url><url>
     <loc>/en/publication-type/7/</loc>
     <lastmod>2022-08-30T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -13,19 +78,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/publication-type/7/"
-                />
-  </url><url>
-    <loc>/en/authors/</loc>
-    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/"
                 />
   </url><url>
     <loc>/en/tag/efeito-casimir/</loc>
@@ -182,32 +234,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/"
-                />
-  </url><url>
-    <loc>/en/</loc>
-    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-  </url><url>
-    <loc>/en/author/yuri-muniz/</loc>
-    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/author/yuri-muniz/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/yuri-muniz/"
                 />
   </url><url>
     <loc>/en/publication-type/2/</loc>
@@ -630,19 +656,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/project/kaggle_house_prices/"
-                />
-  </url><url>
-    <loc>/en/talk/</loc>
-    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/talk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/talk/"
                 />
   </url><url>
     <loc>/en/talk/zaragoza2020/</loc>
